@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Purohit B</h1>
 <h3 align="center">I'm now a fourth-year undergrad and am a novice in cloud computing and an intermediate in Python.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunpurohit146&label=Profile%20views&color=0e75b6&style=flat" alt="tarunpurohit146" /> </p>
 
